@@ -1,0 +1,115 @@
+CPU 0 : Idle
+CPU 1 : Idle
+CPU 2 : Idle
+CPU 3 : Idle
+2 2 2
+Waiting:
+
+Ready:
+T4 T1 T3 T2 
+Z
+Z2
+duraton : 1
+CPU 1 : Idle
+CPU 2 : Idle
+CPU 3 : Idle
+1 2 1
+Waiting:
+
+Ready:
+T1 T3 T2 
+
+Y
+Y2
+duraton : 3
+CPU 0 : Idle
+CPU 2 : Idle
+CPU 3 : Idle
+2 1 1
+Waiting:
+
+Ready:
+T3 T2 
+
+X
+X2
+duraton : 5
+CPU 0 : Idle
+CPU 3 : Idle
+1 0 1
+Waiting:
+
+Ready:
+T2 
+
+X
+CPU 0 : Idle
+CPU 1 : Idle
+CPU 3 : Idle
+1 1 2
+Waiting:
+T2 
+Ready:
+
+
+X1
+X
+X2
+duraton : 6
+CPU 0 : Idle
+CPU 1 : Idle
+CPU 3 : Idle
+0 0 2
+Waiting:
+
+Ready:
+
+
+CPU 0 : Idle
+CPU 3 : Idle
+0 0 2
+Waiting:
+
+Ready:
+
+
+CPU 0 : Idle
+CPU 2 : Idle
+CPU 3 : Idle
+1 1 2
+Waiting:
+
+Ready:
+
+
+CPU 0 : Idle
+CPU 2 : Idle
+1 1 2
+Waiting:
+
+Ready:
+
+
+CPU 0 : Idle
+CPU 2 : Idle
+1 1 2
+Waiting:
+
+Ready:
+
+
+CPU 0 : Idle
+CPU 2 : Idle
+2 2 2
+Waiting:
+
+Ready:
+
+
+CPU 0 : Idle
+CPU 2 : Idle
+2 2 2
+Waiting:
+
+Ready:
+
