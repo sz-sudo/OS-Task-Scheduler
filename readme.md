@@ -1,7 +1,7 @@
 # Scheduling Algorithm
 
 ## 1. General Information
-This is a program for scheduling tasks in operating systems written in CPP. We have simulated 4 processors using threads. We have created a thread for each processor, and the fifth thread is used for printing the information about Ready and Waiting queues. The algorithms implemented in this project are [FCFS](https://en.wikipedia.org/wiki/FIFO_(computing_and_electronics)"FCFS"), [RR](https://en.wikipedia.org/wiki/Round-robin_scheduling"RR") and [SJF](https://en.wikipedia.org/wiki/Shortest_job_next"SJF"). We have three types of Tasks X, Y and Z and three types of resources R1, R2, R3.
+This is a program for scheduling tasks in operating systems written in CPP. We have simulated 4 processors using threads. We have created a thread for each processor, and the fifth thread is used for printing the information about Ready and Waiting queues. The algorithms implemented in this project are [FCFS](https://en.wikipedia.org/wiki/FIFO_(computing_and_electronics)), [RR](https://en.wikipedia.org/wiki/Round-robin_scheduling) and [SJF](https://en.wikipedia.org/wiki/Shortest_job_next). We have three types of Tasks X, Y and Z and three types of resources R1, R2, R3.
 Task X needs R1 and R2, task Y needs R2 and R3 and task Z needs R1 and R3.
 
 ## 2. Input 
