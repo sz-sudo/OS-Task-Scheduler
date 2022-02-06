@@ -5,7 +5,7 @@ This is a program for scheduling tasks in operating systems written in CPP. We h
 Task X needs R1 and R2, task Y needs R2 and R3 and task Z needs R1 and R3.
 
 ## 2. Input 
-The input must be provided as below:
+The input must be provided as below:<br/>
 2<br/>
 2<br/>
 2<br/>
