@@ -15,7 +15,7 @@ T2 X 6<br/>
 T3 X 5<br/>
 T4 Z 1<br/>
  
-The first three integers represent the number of each type of resource available (in this example we have R1 = 2, R2 = 2 and R3 = 2) and the fourth integer represents the number of tasks that are going to be entered. After that, for each task, we must enter its name (e. g. T1), its type (e. g. Y) and its duration (e. g. 3).
+The first three integers represent the number of each type of resource available (in this example, we have R1 = 2, R2 = 2 and R3 = 2) and the fourth integer represents the number of tasks that are going to be entered. After that, for each task, we must enter its name (e. g. T1), its type (e. g. Y) and its duration (e. g. 3).
 A class called Task is created to represent each task as an object with the attributes we mentioned. Each Task also has a State (or Status) which can be set to Ready, Running or Waiting.
 For each algorithm, we have a separate CPP file with it's own main function.
 
